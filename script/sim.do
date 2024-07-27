@@ -1,0 +1,1 @@
+vsim -gui work.avalon_vvc_tb
